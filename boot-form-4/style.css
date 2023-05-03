@@ -1,0 +1,36 @@
+body {
+  background: rgb(155,208,152);
+  background: radial-gradient(circle, rgba(214,228,196,1) 30%, rgba(95,132,101,1) 100%);
+  background: -webkit-radial-gradient(circle, #d6e4c4, #5f8465);
+}
+h2 {
+  font-weight: bold;
+  color: #555555;
+}
+p {
+  color: #555555;
+}
+form {
+    background-color: #f3f3f3;
+    border-radius: 10px;
+}
+span {
+  position: absolute;
+  padding: 8px;
+}
+input{
+  text-indent: 20px;
+}
+textarea {
+  resize: none;
+}
+.btn-success {
+  background-color: #00d689;
+  border: 1px solid #00d689;
+  font-weight: bold;
+}
+.btn-success:hover {
+  border: 1px solid #00d689;
+  background-color: #f3f3f3;
+  color: #00d689;
+}

@@ -1,0 +1,27 @@
+body {
+  background-color: #268881;
+}
+form {
+  background: linear-gradient(311deg, rgba(140,23,130,1) 10%, rgba(208,1,165,1) 100%);
+  border: 1px solid #8c1782;
+  border-radius: 8px;
+}
+textarea {
+  resize: none;
+}
+h2 {
+  font-weight: bold;
+}
+.btn-purple {
+  background-color: purple;
+  border: none;
+  font-size: 20px;
+}
+.btn-purple:hover {
+  background-color: #e00eb5;
+  border: none;
+}
+.btn-purple:active {
+  background-color: #e00eb5;
+  border: none;
+}
